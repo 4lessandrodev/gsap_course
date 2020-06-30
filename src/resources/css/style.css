@@ -1,0 +1,19 @@
+.references{
+  padding: 2%;
+  border: 1px solid rebeccapurple;
+}
+.references h2{
+  margin-top: 0;
+  padding-top: 0;
+  color: grey;
+}
+.references h1{
+  margin-bottom: 0;
+  padding-bottom: 0;
+  color: orangered;
+}
+
+#star{
+  padding: 2%;
+  font-size: 28px;
+}
