@@ -32,6 +32,29 @@
   width: 20px;
 }
 
-#sun{
-  
+#shark {
+  fill: red;
+}
+
+#sharks{
+  display: flex;
+  padding: 0 0 0 10%;
+}
+
+#sharks img{
+  padding: 100%;
+}
+
+#body{
+  background-image: url("/src/resources/img/ocean-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: baseline;
+}
+
+#titulo{
+  color: white;
 }
