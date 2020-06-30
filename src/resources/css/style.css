@@ -13,8 +13,22 @@
   color: orangered;
 }
 
-#star{
+#star1{
   padding: 2%;
   font-size: 28px;
   color:orangered;
+}
+
+.divider .star {
+  display: flex;
+  flex-direction: column;
+  padding: 50%;
+  font-size: 28px;
+  color:orangered;
+  margin: 20%;
+}
+
+.divider{
+  width: 20px;
+  height: 10vh;
 }
