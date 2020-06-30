@@ -1,3 +1,4 @@
+
 const STAR = document.getElementById('star1');
 const THREE_STARS = document.querySelectorAll('.star');
 const SUN = document.getElementById('sun');
