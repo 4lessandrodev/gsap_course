@@ -2,4 +2,4 @@
 Introduction to creative animation tools
 
 
-![Animação](http://alessandrodev.com/imagens/Animation.gif)
+[![](http://alessandrodev.com/imagens/Animation.gif)](http://alessandrodev.com/imagens/Animation.gif)
