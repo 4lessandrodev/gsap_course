@@ -58,3 +58,57 @@
 #titulo{
   color: white;
 }
+
+#background-moon{
+  border: 1px solide red;
+  min-width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-image: url("/src/resources/img/31766.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container{
+  display: flex;
+  justify-content:center;
+  align-items: baseline;
+}
+
+#monsters{
+  min-height: 40vh;
+  height: 40vh;
+  display: flex;
+  justify-content:center;
+  align-items: flex-end;
+  overflow: hidden;
+}
+
+#monsters img{
+margin: 0 2vw;
+}
+
+#title{
+  padding-top: 1%;
+  width: 500px;
+}
+
+.div-title{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+#time{
+  position: fixed;
+  background-color: brown;
+  border: 3px solid black;
+  border-bottom: 7px solid lightgreen;
+  padding: 0.5% 2%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  right:0px;
+  top: 10%;
+}
