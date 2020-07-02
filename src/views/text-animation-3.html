@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="/src/resources/js/gsap.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.0.1/dist/EasePack.min.js"></script>
+  <title>Document</title>
+  <style>
+    body{
+      margin: 0;
+      padding: 0;
+    }
+    .demo{
+      background-color: blueviolet;
+      color: white;
+      min-width: 100%;
+      min-height: 100vh;
+      overflow: hidden;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    img{
+      width: 30%;
+    }
+    h2{
+      font-size: 3rem;
+      margin: 0;
+      padding: 0;
+    }
+    .conteudo{
+      width: 60vw;
+      visibility: hidden;
+      overflow: hidden;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <main class="demo">
+    <div class="conteudo">
+      <img src="/src/resources/img/book-blue.png" alt="" id="image">
+      <h2 id="text">Reading...</h2>
+    </div>
+  </main>
+  <script src="/src/resources/js/text-animation-3.js"></script>
+</body>
+</html>
