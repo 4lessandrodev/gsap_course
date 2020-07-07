@@ -1,5 +1,4 @@
 # gsap_course
 Introduction to creative animation tools
 
-
-[![Preview](http://alessandrodev.com/imagens/Animation.gif)](http://alessandrodev.com/imagens/Animation.gif)
+<a href="http://alessandrodev.com/imagens/Animation.gif"><img src="http://alessandrodev.com/imagens/Animation.gif" alt="imagem"></a>
